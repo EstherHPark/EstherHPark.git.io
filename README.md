@@ -12,6 +12,6 @@ Lehigh Enrollment 2017 Pie Chart
 
 <iframe title="Chart: Lehigh Enrollment 2017" aria-describedby="This pie chart shows the undergraduate enrollment in the colleges and programs at Lehigh University in 2017. College of Arts &amp; Sciences has the largest enrollment, with a total of 1665 students." id="datawrapper-chart-yr1Uf" src="//datawrapper.dwcdn.net/yr1Uf/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="638"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>   
 
-Lehigh University College Distribution 2007-2017   
+Lehigh University College Distribution 2007-2017  
 
 <iframe title="Chart: Lehigh University: College Distribution 2007-2017" aria-describedby="Lehigh University College Enrollment Distribution in past 10 years" id="datawrapper-chart-Cpefc" src="//datawrapper.dwcdn.net/Cpefc/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>  
