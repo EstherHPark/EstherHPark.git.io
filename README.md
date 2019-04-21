@@ -20,6 +20,4 @@ Hello! My name is Esther and I am a junior from San Francisco, CA studying Bioen
 <iframe width="100%" height="480px" src="https://poly.google.com/view/4aq_FpBVcNU/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
 
 ### Parsehub Data Scrapping - SF Mulifamily Property Size vs. Price
-Data was collected using Parsehub from Loopnet.com to learn more about Multifamilty homes, its sizes and prices. As the housing prices in San Francisco continue to increase, multifamily properties are becoming more popular. This dataset charts the property sizes vs. prices.
-
-<img src="https://user-images.githubusercontent.com/47259827/56475319-6c637a80-6454-11e9-90cd-dd23a9cf59af.png" width="500>
+<img src="https://user-images.githubusercontent.com/47259827/56475319-6c637a80-6454-11e9-90cd-dd23a9cf59af.png" width="500> Data was collected using Parsehub from Loopnet.com to learn more about Multifamilty homes, its sizes and prices. As the housing prices in San Francisco continue to increase, multifamily properties are becoming more popular. This dataset charts the property sizes vs. prices.
